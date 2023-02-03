@@ -1,0 +1,23 @@
+
+body{
+    background-color: aqua;
+    color: white;
+    font-size: 21px;
+    background-image:url(../images/sam.PNG ) ;
+
+}
+h1{
+    color: #3747b3;
+}
+p{
+    color: #2f4c5c;
+}
+
+.box{
+    /* background-color: darksalmon; */
+    
+    background-image:url(../images/sam.PNG ) ;
+    padding: 200px 100px;
+    margin: 100px;
+     background-position: center;
+}
